@@ -1,19 +1,19 @@
 <h1 align="center">Hi there👋, I'm Vinay Vuppala</h1>
-<h3 align="center">I am a Data Analyst enthusiast</h3>
+<h3 align="center">I am a Software Developer enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vvinay17&label=Profile%20views&color=0e75b6&style=flat" alt="vvinay17" /> </p>
 
-- 🔭 I’m currently working on **SQL Project on E-commerce dataset**
+- 🔭 I’m currently working on **GenAI Project**
 
-- 🌱 I’m currently learning **Data Analytics tools**
+- 🌱 I’m currently learning **Open AI for Data Science**
 
-- 📫 How to reach me **vinayvuppala17@gmail.com**
+- 📫 How to reach me **vuppalavinay.ft@gmail.com**
 
 - ⚡ Fun fact **I think myself as funny but I'm not**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/vuppala vinay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vuppala vinay" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/vuppalavinay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vuppala vinay" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
